@@ -6,7 +6,6 @@ const filter = document.querySelector("#filter");
 const taskInput = document.querySelector("#task");
 
 //Load all event listeners
-
 loadEventListeners();
 
 function loadEventListeners() {
